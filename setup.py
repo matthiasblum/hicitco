@@ -12,12 +12,11 @@ extensions = [
 ]
 
 setup(name='HiCitco',
-      version='0.1',
+      version='1.0',
       description='Hi-C Iterative Correction',
       author='Matthias Blum',
       author_email='mat.blum@gmail.com',
       url='https://github.com/matthiasblum/HiCitco',
-      version='1.0',
       zip_safe=False,
       scripts=['bin/hicitco'],
       ext_modules=cythonize(extensions),
