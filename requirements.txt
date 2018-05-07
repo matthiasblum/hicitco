@@ -1,0 +1,13 @@
+certifi==2018.4.16
+cycler==0.10.0
+Cython==0.28.2
+kiwisolver==1.0.1
+matplotlib==2.2.2
+numpy==1.14.3
+pandas==0.22.0
+pyparsing==2.2.0
+python-dateutil==2.7.2
+pytz==2018.4
+scipy==1.1.0
+six==1.11.0
+tornado==5.0.2
